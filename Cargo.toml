@@ -3,7 +3,7 @@ name = "gles31_util"
 version = "0.1.0"
 authors = ["tasogare3710 <tasogare.android@gmail.com>"]
 edition = "2021"
-license = "MIT, Apache-2.0"
+license = "MIT OR Apache-2.0"
 
 [dependencies.gles31]
 git = "https://github.com/zen-chromeless-platform/gles31.git"
